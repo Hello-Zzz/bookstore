@@ -1,8 +1,6 @@
 # bookstore
 
-## follow尚硅谷javaweb课程
-
-详情请见bilibili[链接](https://www.bilibili.com/video/BV1Y7411K7zz)
+JavaWeb学习: 书城项目
 
 ## 运行步骤
 1. 在本机mysql上运行sql/book.sql脚本，创建项目必要的tab
